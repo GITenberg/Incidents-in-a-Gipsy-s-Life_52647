@@ -1,5 +1,8 @@
 _repo: Incidents-in-a-Gipsy-s-Life_52647
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, George
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47010'
     url: http://www.gutenberg.org/2009/agents/47010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52647#Incidents-in-a-Gipsy-s-Life
 gutenberg_issued: '2016-07-25'
 gutenberg_type: Text
 identifiers:
