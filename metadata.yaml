@@ -1,0 +1,25 @@
+_repo: Incidents-in-a-Gipsy-s-Life_52647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, George
+    alias: Smith, Lazzy
+    birthdate: 1830
+    gutenberg_agent_id: '47010'
+    url: http://www.gutenberg.org/2009/agents/47010
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DX'
+- !lcsh 'Smith, George, 1830-'
+- !lcsh 'Romanies -- Great Britain -- Biography'
+- GITenberg
+title: Incidents in a Gipsy's Life
+url: http://www.gutenberg.org/ebooks/52647
